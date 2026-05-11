@@ -86,7 +86,5 @@ Overall, this structured governance approach transforms QuickLoan into a more et
 
 ---
 
-## Author
-Independent Data Governance Consultant
 
----
+
